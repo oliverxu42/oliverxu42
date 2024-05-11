@@ -17,7 +17,7 @@ G'day I'm Oliver, currently a final year student studying a computer science and
 
 <!--- Want to know more about me? Check out my website (WIP) -->
 
-<!--- Credits to: https://github.com/jstrieb/github-stats -->
+<!--- Credits to: https://github.com/jstrieb/github-stats (TODO) -->
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/languages.svg#gh-dark-mode-only)
