@@ -1,6 +1,6 @@
-### Hello there! 👋
+# Hello there! 👋
 
-G'day I'm Oliver, currently a final year student studying a computer science and aerospace engineering at UNSW Sydney!
+G'day I'm Oliver, currently a final year student studying a computer science and aerospace engineering at UNSW Sydney! ✈️
 
 🎓 I'm currently studying @ UNSW:
 - DESN3000 (Strategic Design Innovation)
