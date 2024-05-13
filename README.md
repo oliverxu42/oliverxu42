@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-G'day I'm Oliver, currently a final year student studying a computer science and aerospace engineering at UNSW Sydney! ✈️
+G'day I'm Oliver, currently a final year student studying computer science and aerospace engineering at UNSW Sydney! ✈️
 
 🎓 I'm currently studying @ UNSW:
 - DESN3000 (Strategic Design Innovation)
@@ -14,11 +14,12 @@ G'day I'm Oliver, currently a final year student studying a computer science and
   - COMP3900 (Computer Science Capstone Project)
 - School of Mechanical and Manufacturing Engineering
   - AERO9610 (The Space Segment)
-
 <!--- Want to know more about me? Check out my website (WIP) -->
-
 <!--- Credits to: https://github.com/jstrieb/github-stats (TODO) -->
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/oliverxu42/github-stats/master/generated/languages.svg#gh-light-mode-only)
+### Get in touch! 📫
+
+You can reach me via [LinkedIn](https://www.linkedin.com/in/olivercxu/) or email: xu.oliver8202@gmail.com
