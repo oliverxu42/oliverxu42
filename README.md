@@ -22,4 +22,4 @@ G'day I'm Oliver, currently a final year student studying computer science and a
 
 ## 📫 Get in touch! 
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/olivercxu/) or email: xu.oliver8202@gmail.com
+You can reach me via [LinkedIn](https://www.linkedin.com/in/olivercxu/), my personal [website](https://www.oliverxu.live/) or by email: xu.oliver8202@gmail.com
