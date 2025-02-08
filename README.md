@@ -3,9 +3,8 @@
 G'day I'm Oliver, currently a final year student studying computer science and aerospace engineering at UNSW Sydney! ✈️
 
 🎓 I'm currently studying @ UNSW:
-- DESN3000 (Strategic Design Innovation)
-- COMP6771 (Advanced C++ Programming)
-- MMAN4951 (Research Thesis A)
+- AERO4620 (Dynamics of Aerospace Vehicles, Systems and Avionics)
+- MMAN4953 (Research Thesis C)
 
 👨‍🏫 I'm also a casual academic @ UNSW where I'm tutoring/have tutored the following courses:
 - School of Computer Science and Engineering (CSE)
@@ -14,6 +13,7 @@ G'day I'm Oliver, currently a final year student studying computer science and a
   - COMP3900 (Computer Science Capstone Project)
 - School of Mechanical and Manufacturing Engineering
   - AERO9610 (The Space Segment)
+  - ENGG1300 (Engineering Mechanics 1)
 
 ## 🛠 Languages and Tools
 
