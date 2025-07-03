@@ -1,12 +1,8 @@
 # Hello there! 👋
 
-G'day I'm Oliver, currently a final year student studying computer science and aerospace engineering at UNSW Sydney! ✈️
+G'day I'm Oliver, a computer science and aerospace engineering graduate from UNSW Sydney! ✈️
 
-🎓 I'm currently studying @ UNSW:
-- AERO4620 (Dynamics of Aerospace Vehicles, Systems and Avionics)
-- MMAN4953 (Research Thesis C)
-
-👨‍🏫 I'm also a casual academic @ UNSW where I'm tutoring/have tutored the following courses:
+👨‍🏫 I'm currently casual academic @ UNSW where I'm tutoring/have tutored the following courses:
 - School of Computer Science and Engineering (CSE)
   - COMP1531 (Software Engineering Fundamentals)
   - COMP6080 (Web Frontend Programming)
